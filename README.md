@@ -13,6 +13,7 @@ Prepare a text file containing quiz questions and options in the following forma
 
 
 Question 1
+
 A) Option 1
 B) Option 2
 C) Option 3
@@ -20,6 +21,8 @@ D) Option 4
 Answer: A
 
 Question 2
+
+
 A) Option 1
 B) Option 2
 C) Option 3
@@ -44,6 +47,7 @@ An example quiz file (quiz.txt) may look like this:
 
 
 Question 1
+
 A) Option 1
 B) Option 2
 C) Option 3
@@ -51,6 +55,7 @@ D) Option 4
 Answer: A
 
 Question 2
+
 A) Option 1
 B) Option 2
 C) Option 3
